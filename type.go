@@ -1,4 +1,4 @@
-package supervisor
+package supervisor_client
 
 type (
 	ProcessInfo struct {
